@@ -33,8 +33,8 @@ npm install
 In the `.env` file, you'll see environment variable placeholders, one for each workspace that the selected tools are from. For example, if you selected requests from 2 workspaces, e.g. Acme and Widgets, you'll see two placeholders:
 
 ```
-ACME_API_KEY=
-WIDGETS_API_KEY=
+ACME_API_KEY=<your_api_token/key>
+WIDGETS_API_KEY=<your_api_token/key>
 ```
 
 Update the values with actual API keys for each API. These environment variables are used inside of the generated tools to set the API key for each request. You can inspect a file in the `tools` directory to see how it works.

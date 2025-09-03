@@ -1,6 +1,6 @@
 # Postman MCP Generator
 
-Welcome to your generated MCP server! 🚀 This project was created with the [Postman MCP Generator](https://postman.com/explore/mcp-generator), configured to [Model Context Provider (MCP)](https://modelcontextprotocol.io/introduction) Server output mode. It provides you with:
+Welcome to your SHODAN MCP server! 🚀 This project was created with the [Postman MCP Generator](https://postman.com/explore/mcp-generator), configured to [Model Context Provider (MCP)](https://modelcontextprotocol.io/introduction) Server output mode. It provides you with:
 
 - ✅ link to mcp server - https://www.postman.com/uday-7974088/workspace/uday-mcp/mcp-request/68b86df74ebe42d4a7196aeb?action=share&creator=46802020&ctx=documentation
 - ✅ An MCP-compatible server (`mcpServer.js`)

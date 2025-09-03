@@ -1,0 +1,23 @@
+export const toolPaths = [
+  'shodan/rest-api-documentation/list-all-search-facets.js',
+  'shodan/trends-api-documentation/list-all-search-facets.js',
+  'shodan/internet-db-api/info.js',
+  'shodan/trends-api-documentation/list-all-filters-that-can-be-used-when-searching.js',
+  'shodan/rest-api-documentation/domain-information.js',
+  'shodan/rest-api-documentation/get-list-of-all-the-created-scans.js',
+  'shodan/rest-api-documentation/account-methods.js',
+  'shodan/rest-api-documentation/list-all-protocols-that-can-be-used-when-performing-on-demand-internet-scans-via-shodan.js',
+  'shodan/rest-api-documentation/list-all-ports-that-shodan-is-crawling-on-the-internet.js',
+  'shodan/trends-api-documentation/search-trends.js',
+  'shodan/rest-api-documentation/api-plan-information.js',
+  'shodan/rest-api-documentation/list-all-filters-that-can-be-used-when-searching.js',
+  'shodan/rest-api-documentation/search-shodan-without-results.js',
+  'shodan/rest-api-documentation/get-the-status-of-a-scan-request.js',
+  'shodan/rest-api-documentation/reverse-dns-lookup.js',
+  'shodan/rest-api-documentation/dns-lookup.js',
+  'shodan/rest-api-documentation/host-information.js',
+  'shodan/rest-api-documentation/break-the-search-query-into-tokens.js',
+  'shodan/rest-api-documentation/request-shodan-to-crawl-an-ip-netblock.js',
+  'shodan/rest-api-documentation/crawl-the-internet-for-a-specific-port-and-protocol-using-shodan.js',
+  'shodan/rest-api-documentation/search-shodan.js'
+];
